@@ -1,7 +1,7 @@
 # ML-enabled-parts-rendering-automation
 View recommendation system using unsupervised ML clustering. Groups parts by geometrical metadata and assigns preferred rendering views per cluster, streamlining graphics workflows
 
-![flowchart](ML_enabled_auto-rendering_project_flowchart1.png)
+![flowchart](docs/ML_enabled_auto-rendering_project_flowchart1.png)
 
 
 1. Clustering workflow
